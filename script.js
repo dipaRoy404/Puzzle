@@ -149,7 +149,7 @@ function page2Animation() {
                                     timeSpan.innerHTML = remainingTime;
                                 } else {
                                     clearInterval(holdTimer);
-                                    window.location.href = "https://diparoy404.github.io/Dipa-Roy/";
+                                    window.location.href = "https://diparoy404.github.io/final-phase/";
                                 }                                
                             }, 100);
                         }, 1000);
