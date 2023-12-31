@@ -81,7 +81,7 @@ function page2Animation() {
         gsap.to(btn, {
             top: y,
             left: x,
-            duration: count,
+            duration: count/10,
         });
     };
 
